@@ -1,0 +1,205 @@
+body {
+    background: linear-gradient( 80deg, #fffe03 0%, #009ded 100%);
+    background-attachment: fixed;
+    background-size: cover;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#wrapper {
+    width: 789px;
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
+    border-radius: 5px;
+    position: relative;
+    z-index: 1;
+    background: inherit;
+    overflow: hidden;
+}
+
+#wrapper::before {
+    content: "";
+    position: absolute;
+    background: inherit;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
+    filter: blur(10px);
+    margin: -20px;
+}
+
+
+/* Header
+ -----------------------------------------------------------------------------*/
+
+#logo {
+    text-align: center;
+    display: table;
+    margin: 0px auto 10px;
+}
+
+#dm-info {
+    width: 55%;
+    color: #333;
+    border-radius: 5px 0 0 5px;
+    padding: 35px 20px;
+    text-align: center;
+    border-right: 1px solid #e7e7e7;
+}
+
+#dm-info a {
+    color: #333;
+    text-decoration: none;
+}
+
+#dm-info h3 {
+    font-size: 13px;
+}
+
+#dm-info small {
+    color: #161314;
+    font-size: 13px;
+}
+
+#dm-info .admincp-title {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+#dm-info hr {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+/* Content
+ -----------------------------------------------------------------------------*/
+
+#login-content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 0 5px 5px 0;
+    width: 45%;
+}
+
+#login-content h3 {
+    margin: 0 0 20px 0;
+    font-size: 16px;
+}
+
+#login-content label {
+    display: block;
+}
+
+#login-content img {
+    max-height: 79px;
+    max-width: 100%!important;
+}
+
+#login-content i {
+    cursor: pointer;
+}
+
+#login-content .input-big {
+    font-size: 18px;
+    width: 294px;
+}
+
+#login-content .muti-lang {
+    text-align: right;
+}
+
+#login-content .muti-lang label {
+    display: inline-block;
+}
+
+#login-content .lostpass {
+    text-align: right;
+    font-style: italic;
+    padding: 0;
+    margin: 0;
+}
+
+.loginStep2 input {
+    margin-bottom: 10px;
+}
+
+.login-2step-others {
+    border-top: 1px #eee solid;
+    padding-top: 10px;
+}
+
+.btn-facebook {
+    background-color: #4267b2;
+    border-color: #4267b2;
+    color: #fff;
+}
+
+.btn-facebook:hover,
+.btn-facebook:active,
+.btn-facebook:focus {
+    background-color: #5180e0!important;
+    border-color: #5180e0!important;
+}
+
+.btn-google {
+    background-color: #ea4335;
+    border-color: #ea4335;
+    color: #fff;
+}
+
+.btn-google:hover,
+.btn-google:active,
+.btn-google:focus {
+    background-color: #f2574b!important;
+    border-color: #f2574b!important;
+}
+
+.btn-facebook:active,
+.btn-facebook:focus,
+.btn-facebook:active:focus,
+.btn-facebook:hover,
+.btn-google:active,
+.btn-google:focus,
+.btn-google:active:focus,
+.btn-google:hover {
+    color: #fff!important;
+}
+
+
+/* Footer
+ -----------------------------------------------------------------------------*/
+
+#copyright {
+    text-align: center;
+    font-style: italic;
+    color: #999;
+    margin-top: 10px;
+}
+
+
+/* Message
+ -----------------------------------------------------------------------------*/
+
+.inner-message {
+    margin-bottom: 16px;
+}
+
+.inner-message .normal {
+    padding-left: 10px;
+    border-left: 4px #e7e7e7 solid;
+}
+
+.inner-message .error {
+    padding-left: 10px;
+    border-left: 4px #D54E21 solid;
+    color: #D54E21;
+}

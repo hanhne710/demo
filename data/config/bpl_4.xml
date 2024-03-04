@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>4</id>
+  <lang></lang>
+  <title>QC Sitebar</title>
+  <form>sequential</form>
+  <width>500</width>
+  <height>600</height>
+  <banners>
+    <banners_item>
+      <id>5</id>
+      <title>Trả góp</title>
+      <clid>1</clid>
+      <file_name>vuta-banner-2.png</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>336</file_width>
+      <file_height>280</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1668502920</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

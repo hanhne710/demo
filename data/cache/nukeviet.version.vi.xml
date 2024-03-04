@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cms>
+	<name><![CDATA[NukeViet CMS 4.5.04]]></name>
+	<version><![CDATA[4.5.04]]></version>
+	<date><![CDATA[Thu, 20 Jul 2023 17:00:00 GMT]]></date>
+	<message><![CDATA[NukeViet 4.5.04 là Phiên bản tiếp theo của dòng NukeViet 4.5 trọng tâm là sửa lỗi liên quan đến chức năng tìm kiếm và fix các lỗi còn gặp ở phiên bản trước.]]></message>
+	<link><![CDATA[https&#x3A;&#x002F;&#x002F;nukeviet.vn&#x002F;]]></link>
+	<updateable><![CDATA[4.5.04]]></updateable>
+	<updatepackage><![CDATA[45]]></updatepackage>
+</cms>

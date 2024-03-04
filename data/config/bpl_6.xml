@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>6</id>
+  <lang></lang>
+  <title>QC Bên dưới Slider Home</title>
+  <form>sequential</form>
+  <width>228</width>
+  <height>168</height>
+  <banners>
+    <banners_item>
+      <id>8</id>
+      <title>Trọn gói cài win vệ sinh máy chỉ 149k</title>
+      <clid>1</clid>
+      <file_name>banner-3.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>302</file_width>
+      <file_height>180</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1673077980</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>9</id>
+      <title>Phụ kiện giá sốc, giao hàng siêu tốc</title>
+      <clid>1</clid>
+      <file_name>banner-2.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>220</file_width>
+      <file_height>129</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1673078280</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

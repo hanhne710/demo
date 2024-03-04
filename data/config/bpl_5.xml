@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>5</id>
+  <lang></lang>
+  <title>QC Bên phải Slider Home</title>
+  <form>sequential</form>
+  <width>228</width>
+  <height>168</height>
+  <banners>
+    <banners_item>
+      <id>6</id>
+      <title>Laptop cũ chất và xịn</title>
+      <clid>1</clid>
+      <file_name>banner-5.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>289</file_width>
+      <file_height>169</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1673077860</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>7</id>
+      <title>Laptop cũ bảo hành như mới</title>
+      <clid>1</clid>
+      <file_name>banner-4.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>309</file_width>
+      <file_height>180</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1673077860</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>10</id>
+      <title>Mua PC, laptop trả góp 0&amp;#x25;</title>
+      <clid>2</clid>
+      <file_name>banner-1.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>305</file_width>
+      <file_height>172</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1673189940</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

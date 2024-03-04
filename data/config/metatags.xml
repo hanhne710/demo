@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta>
+  <meta_item>
+    <group>name</group>
+    <value>author</value>
+    <content>{SITE_NAME}</content>
+  </meta_item>
+  <meta_item>
+    <group>name</group>
+    <value>copyright</value>
+    <content>{SITE_NAME}</content>
+  </meta_item>
+  <meta_item>
+    <group>name</group>
+    <value>google-site-verification</value>
+    <content>qYeUi5PME1VxlUhlVbdMjpyOztzrfDi05UQy8iKhm1g</content>
+  </meta_item>
+</meta>
